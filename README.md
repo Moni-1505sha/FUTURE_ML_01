@@ -75,3 +75,11 @@ Predicts upcoming sales trend based on learned patterns.
 - Scikit-learn  
 
 
+## ▶ How to Run the Project
+
+```bash
+pip install pandas numpy matplotlib scikit-learn
+python sales_forecast.py
+```
+
+
